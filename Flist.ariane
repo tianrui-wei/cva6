@@ -108,7 +108,7 @@ src/mult.sv
 src/multiplier.sv
 src/serdiv.sv
 src/perf_counters.sv
-src/ptw.sv
+src/mmu_sv39/ptw.sv
 src/ariane_regfile_ff.sv
 src/re_name.sv
 src/scoreboard.sv
